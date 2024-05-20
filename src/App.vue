@@ -41,6 +41,22 @@ export default defineComponent({
       "",
       "Ewnix is a Kubernetes project started by phlux.",
       "",
+      "Ewnix is a versatile Kubernetes cluster set up to support a wide",
+      "range of projects and services, including:",
+      "",
+      "- **FOSS Development**: A platform for fostering open-source",
+      "  software development, enabling collaboration and innovation.",
+      "",
+      "- **Web Hosting**: Reliable and scalable web hosting for various",
+      "  applications and websites.",
+      "",
+      "- **IRC Hosting**: Providing robust and secure Internet Relay",
+      "  Chat (IRC) hosting for community interactions and support.",
+      "",
+      "Ewnix leverages Kubernetes to ensure high availability, scalability,",
+      "and efficient resource management, making it an ideal solution",
+      "for modern cloud-native applications.",
+      "",
       "I’ll put more content here later."
     ];
     const pages = ref<Record<string, string[]>>({
